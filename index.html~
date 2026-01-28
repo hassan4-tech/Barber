@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Don Barber´s</title>
+   
+</head>
+<body bgcolor="white">
+
+ <p align="center"><font color="black" face="didot" size="8"> <u>ESTD Don Barber´s</u> </font></p>  
+ <br> 
+<br>
+<br>
+<p align="center"> <img src="donbarber.jpg" alt="Don barber´s" width="200" height="200"> </p>
+<p align="center"><font color="gold" face="serif" size="6">Almería, España</font></p>
+<br>
+<br>
+<br>
+<p><font color="black" size="4" face="didot"> ¿Sigues yendo al peluquero de tu barrio pero nunca te quedas satisfecho? Confía en nosotros y pide tu cita para dar un buen cambio de look </font></p>
+<br>
+<br>
+<p align="center"><font color="gold" size="6" face="didot"> Haz click para ir al instagram oficial:</font> </p>
+<br>
+<p align="center"> 
+        <a href="https://www.instagram.com/estd_donbarbers/?utm_source=ig_web_button_share_sheet" target="_blank">
+            <img src="insta.png" alt="Instagram" width="150" height="150">
+        </a> 
+</p>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
